@@ -23,7 +23,6 @@
 //     c: "Hello",
 //     d: "world"
 // };
-// ---------------------------------------------------
 // const sumNumbers = (data) => {
 //     sum = 0;
 //     for(let i in data){
